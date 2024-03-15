@@ -1,0 +1,18 @@
+{
+    "Accept": "application/json",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Accept-Language": "fr-FR,fr;q=0.9, en-US; q=0.8, en; q=0.7",
+    "Content-Type": "application/json",
+    "Origin": "https://www.opentable.com",
+    "Pragma": "no-cache",
+    "Referer": "https://www.opentable.com/authenticate/verify-medium?rp=https%3A%2F%2Fwww.opentable.com%2F&srs=1&isFromBookingFlow=false&isPopup=true&origin=global_header",
+    "Sec-Ch-Ua": "\"Chromium\";v=\"122\", \"Not(A:Brand\";v=\"24\", \"Brave\";v=\"122\"",
+    "Sec-Ch-Ua-Mobile": "?0",
+    "Sec-Ch-Ua-Platform": "\"Windows\"",
+    "Sec-Fetch-Dest": "empty",
+    "Sec-Fetch-Mode": "cors",
+    "Sec-Fetch-Site": "same-origin",
+    "Sec-Gpc": "1",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36",
+    "x-csrf-token": "352ca254-e1e0-4de9-bb2f-7711e4943242"
+}
